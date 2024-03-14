@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jesaya
+- 👀 I’m interested in Software development
+- 🌱 I’m currently learning Software development
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me @fsatriabuana@gmail.com
